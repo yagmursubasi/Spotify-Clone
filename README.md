@@ -24,7 +24,4 @@ This project is a **Spotify Clone** created using **SCSS** and **JavaScript**. I
 ![Zight Recording 2024-12-28 at 10 48 20 PM](https://github.com/user-attachments/assets/72ad5511-8bd9-4139-8ef2-db7a20e74c4e)
 
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
+
